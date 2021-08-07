@@ -1,6 +1,6 @@
 # Conllu.js
 
-Conllu.js is a JavaScript library capable of manipulating files in CoNLL-U format, including the creation and manipulation of multi-word tokens in a sentence. It's a minor fork of the Conllu library, which is available at https://www.npmjs.com/package/conllu.
+Conllu.js is a JavaScript library capable of manipulating files in CoNLL-U format, including the creation and manipulation of multi-word tokens in a sentence. It's a minor fork from the Conllu library, which is available at https://www.npmjs.com/package/conllu.
 
 ## Installation
 
