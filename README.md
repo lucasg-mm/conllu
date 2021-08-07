@@ -8,11 +8,11 @@ Conllu.js is a JavaScript library capable of manipulating files in CoNLL-U forma
 
 Conllu.js is available on npm.
 
-`npm install conllu-js`
+`npm install conllujs`
 
 Then, require the conllu library.
 
-`var conlluJs = require('conllu-js')`
+`var conlluJs = require('conllujs')`
 
 ## Overview
 
