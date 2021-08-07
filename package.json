@@ -1,6 +1,6 @@
 {
   "name": "conllujs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Conllu.js is a minor fork from the Conllu JavaScript library, which is capable of manipulating files in the CoNLL-U format.",
   "main": "index.js",
   "directories": {
